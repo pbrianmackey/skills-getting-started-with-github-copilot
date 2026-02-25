@@ -66,7 +66,7 @@ activities = {
     "Debate Team": {
         "description": "Competitive debate and public speaking skills",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
-        "max_particles": 14,
+        "max_participants": 14,
         "participants": ["lucas@mergington.edu"]
     },
     "Science Club": {
